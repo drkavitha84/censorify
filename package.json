@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "express": "^4.21.0"
+    },
+    "name": "censorify",
+    "version": "1.0.0",
+    "main": "censortext.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drkavitha84/Kavitha"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
